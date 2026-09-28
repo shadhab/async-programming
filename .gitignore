@@ -1,1 +1,12 @@
+
 .env
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated classification results
+data/results/

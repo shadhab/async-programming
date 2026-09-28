@@ -1,0 +1,18 @@
+
+[
+  {
+    "id": 1,
+    "subject": "Invoice for September services",
+    "body": "Hello, please find our September invoice attached. Kindly confirm when payment will be processed."
+  },
+  {
+    "id": 2,
+    "subject": "Unable to access my account",
+    "body": "I have been trying to log into my account but keep receiving an authentication error. Can you help?"
+  },
+  {
+    "id": 3,
+    "subject": "Request for product pricing",
+    "body": "We are interested in purchasing your enterprise plan. Please send us your pricing and available packages."
+  }
+]

@@ -1,0 +1,103 @@
+
+[
+  {
+    "id": 1,
+    "subject": "Invoice for September services",
+    "body": "Hello, please find our September invoice attached. Kindly confirm when payment will be processed."
+  },
+  {
+    "id": 2,
+    "subject": "Unable to access my account",
+    "body": "I have been trying to log into my account but keep receiving an authentication error. Can you help?"
+  },
+  {
+    "id": 3,
+    "subject": "Request for product pricing",
+    "body": "We are interested in purchasing your enterprise plan. Please send us your pricing and available packages."
+  },
+  {
+    "id": 4,
+    "subject": "Congratulations! You won a prize",
+    "body": "You have won a million dollars. Click this suspicious link immediately to claim your prize."
+  },
+  {
+    "id": 5,
+    "subject": "Payment confirmation",
+    "body": "We have completed the payment for invoice INV-2026-105. Please confirm receipt."
+  },
+  {
+    "id": 6,
+    "subject": "Application crashing",
+    "body": "The application crashes every time I attempt to upload a document. Please investigate this issue."
+  },
+  {
+    "id": 7,
+    "subject": "Enterprise subscription inquiry",
+    "body": "Our company is evaluating your software for 200 employees. Could someone contact us with a sales proposal?"
+  },
+  {
+    "id": 8,
+    "subject": "Urgent account verification",
+    "body": "Your account will be permanently deleted unless you verify your password through this untrusted website."
+  },
+  {
+    "id": 9,
+    "subject": "Overdue invoice reminder",
+    "body": "Our records show that invoice INV-203 has not been paid. Please advise us of the expected payment date."
+  },
+  {
+    "id": 10,
+    "subject": "Unable to reset password",
+    "body": "I requested a password reset but never received the reset email. Please help me regain access."
+  },
+  {
+    "id": 11,
+    "subject": "Request for a product demonstration",
+    "body": "We would like to schedule a demonstration of your automation platform for our procurement team."
+  },
+  {
+    "id": 12,
+    "subject": "Free gift card offer",
+    "body": "Claim your free gift card now. Enter your banking credentials at this unfamiliar link to receive it."
+  },
+  {
+    "id": 13,
+    "subject": "Invoice discrepancy",
+    "body": "The invoice you sent shows a total of $2500, but our purchase order indicates $2200. Please review and send a corrected invoice."
+  },
+  {
+    "id": 14,
+    "subject": "Technical support needed",
+    "body": "The report generation feature is returning an error. We need assistance resolving this problem."
+  },
+  {
+    "id": 15,
+    "subject": "Bulk purchase inquiry",
+    "body": "We are planning to purchase 500 licenses and would like to discuss volume discounts and contract terms."
+  },
+  {
+    "id": 16,
+    "subject": "Suspicious cryptocurrency investment",
+    "body": "Double your money in 24 hours with our guaranteed cryptocurrency investment. Send funds to this wallet immediately."
+  },
+  {
+    "id": 17,
+    "subject": "Outstanding balance statement",
+    "body": "Please find the outstanding balance statement for your account. Let us know if you require a copy of any invoice."
+  },
+  {
+    "id": 18,
+    "subject": "Software integration error",
+    "body": "Our API integration has stopped syncing customer records since yesterday. Could your technical team investigate?"
+  },
+  {
+    "id": 19,
+    "subject": "Request for a sales quotation",
+    "body": "Please provide a formal quotation for 50 licenses, including implementation costs and annual maintenance."
+  },
+  {
+    "id": 20,
+    "subject": "You have been selected for a cash reward",
+    "body": "You have been randomly selected to receive a cash reward. Pay a processing fee to claim your money."
+  }
+]
